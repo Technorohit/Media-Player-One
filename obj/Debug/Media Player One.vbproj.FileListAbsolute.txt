@@ -1,0 +1,68 @@
+d:\users\rohit\documents\visual studio 2012\Projects\Media Player One\Media Player One\bin\Debug\Media Player One.exe.config
+d:\users\rohit\documents\visual studio 2012\Projects\Media Player One\Media Player One\bin\Debug\Media Player One.exe
+d:\users\rohit\documents\visual studio 2012\Projects\Media Player One\Media Player One\bin\Debug\Media Player One.pdb
+d:\users\rohit\documents\visual studio 2012\Projects\Media Player One\Media Player One\bin\Debug\Media Player One.xml
+d:\users\rohit\documents\visual studio 2012\Projects\Media Player One\Media Player One\bin\Debug\Interop.WMPLib.dll
+d:\users\rohit\documents\visual studio 2012\Projects\Media Player One\Media Player One\bin\Debug\AxInterop.WMPLib.dll
+d:\users\rohit\documents\visual studio 2012\Projects\Media Player One\Media Player One\obj\Debug\Interop.WMPLib.dll
+d:\users\rohit\documents\visual studio 2012\Projects\Media Player One\Media Player One\obj\Debug\AxInterop.WMPLib.dll
+d:\users\rohit\documents\visual studio 2012\Projects\Media Player One\Media Player One\obj\Debug\Media Player One.vbproj.ResolveComReference.cache
+d:\users\rohit\documents\visual studio 2012\Projects\Media Player One\Media Player One\obj\Debug\Media_Player_One.Form1.resources
+d:\users\rohit\documents\visual studio 2012\Projects\Media Player One\Media Player One\obj\Debug\Media_Player_One.Resources.resources
+d:\users\rohit\documents\visual studio 2012\Projects\Media Player One\Media Player One\obj\Debug\Media Player One.vbproj.GenerateResource.Cache
+d:\users\rohit\documents\visual studio 2012\Projects\Media Player One\Media Player One\obj\Debug\Media Player One.exe
+d:\users\rohit\documents\visual studio 2012\Projects\Media Player One\Media Player One\obj\Debug\Media Player One.xml
+d:\users\rohit\documents\visual studio 2012\Projects\Media Player One\Media Player One\obj\Debug\Media Player One.pdb
+D:\Users\Rohit\documents\visual studio 2012\Projects\Media Player One\Media Player One\obj\Debug\Media_Player_One.ABout.resources
+D:\Users\Rohit\Documents\Visual Studio 2012\Projects\Media Player One\Media Player One\obj\Debug\Media_Player_One.playlist.resources
+C:\Users\Rohit\Documents\Visual Studio 2012\Projects\Media Player One\Media Player One\bin\Debug\Media Player One.exe.config
+C:\Users\Rohit\Documents\Visual Studio 2012\Projects\Media Player One\Media Player One\obj\Debug\Interop.WMPLib.dll
+C:\Users\Rohit\Documents\Visual Studio 2012\Projects\Media Player One\Media Player One\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Rohit\Documents\Visual Studio 2012\Projects\Media Player One\Media Player One\obj\Debug\Media Player One.vbproj.ResolveComReference.cache
+C:\Users\Rohit\Documents\Visual Studio 2012\Projects\Media Player One\Media Player One\obj\Debug\Media Player One.exe
+C:\Users\Rohit\Documents\Visual Studio 2012\Projects\Media Player One\Media Player One\obj\Debug\Media Player One.xml
+C:\Users\Rohit\Documents\Visual Studio 2012\Projects\Media Player One\Media Player One\obj\Debug\Media Player One.pdb
+C:\Users\Rohit\Documents\Visual Studio 2012\Projects\Media Player One\Media Player One\bin\Debug\Media Player One.exe
+C:\Users\Rohit\Documents\Visual Studio 2012\Projects\Media Player One\Media Player One\bin\Debug\Media Player One.pdb
+C:\Users\Rohit\Documents\Visual Studio 2012\Projects\Media Player One\Media Player One\bin\Debug\Media Player One.xml
+C:\Users\Rohit\Documents\Visual Studio 2012\Projects\Media Player One\Media Player One\bin\Debug\Interop.WMPLib.dll
+C:\Users\Rohit\Documents\Visual Studio 2012\Projects\Media Player One\Media Player One\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Rohit\Documents\Visual Studio 2012\Projects\Media Player One\Media Player One\obj\Debug\Media_Player_One.ABout.resources
+C:\Users\Rohit\Documents\Visual Studio 2012\Projects\Media Player One\Media Player One\obj\Debug\Media_Player_One.Form1.resources
+C:\Users\Rohit\Documents\Visual Studio 2012\Projects\Media Player One\Media Player One\obj\Debug\Media_Player_One.Resources.resources
+C:\Users\Rohit\Documents\Visual Studio 2012\Projects\Media Player One\Media Player One\obj\Debug\Media_Player_One.playlist.resources
+C:\Users\Rohit\Documents\Visual Studio 2012\Projects\Media Player One\Media Player One\obj\Debug\Media Player One.vbproj.GenerateResource.Cache
+G:\drive h\user data Rohit\Documents\Visual Studio 2012\Projects\Media Player One\Media Player One\bin\Debug\Media Player One.exe.config
+G:\drive h\user data Rohit\Documents\Visual Studio 2012\Projects\Media Player One\Media Player One\obj\Debug\Interop.WMPLib.dll
+G:\drive h\user data Rohit\Documents\Visual Studio 2012\Projects\Media Player One\Media Player One\obj\Debug\AxInterop.WMPLib.dll
+G:\drive h\user data Rohit\Documents\Visual Studio 2012\Projects\Media Player One\Media Player One\obj\Debug\Media Player One.vbproj.ResolveComReference.cache
+G:\drive h\user data Rohit\Documents\Visual Studio 2012\Projects\Media Player One\Media Player One\obj\Debug\Media Player One.exe
+G:\drive h\user data Rohit\Documents\Visual Studio 2012\Projects\Media Player One\Media Player One\obj\Debug\Media Player One.xml
+G:\drive h\user data Rohit\Documents\Visual Studio 2012\Projects\Media Player One\Media Player One\obj\Debug\Media Player One.pdb
+G:\drive h\user data Rohit\Documents\Visual Studio 2012\Projects\Media Player One\Media Player One\bin\Debug\Media Player One.exe
+G:\drive h\user data Rohit\Documents\Visual Studio 2012\Projects\Media Player One\Media Player One\bin\Debug\Media Player One.pdb
+G:\drive h\user data Rohit\Documents\Visual Studio 2012\Projects\Media Player One\Media Player One\bin\Debug\Media Player One.xml
+G:\drive h\user data Rohit\Documents\Visual Studio 2012\Projects\Media Player One\Media Player One\bin\Debug\Interop.WMPLib.dll
+G:\drive h\user data Rohit\Documents\Visual Studio 2012\Projects\Media Player One\Media Player One\bin\Debug\AxInterop.WMPLib.dll
+G:\drive h\user data Rohit\Documents\Visual Studio 2012\Projects\Media Player One\Media Player One\obj\Debug\Media_Player_One.ABout.resources
+G:\drive h\user data Rohit\Documents\Visual Studio 2012\Projects\Media Player One\Media Player One\obj\Debug\Media_Player_One.Form1.resources
+G:\drive h\user data Rohit\Documents\Visual Studio 2012\Projects\Media Player One\Media Player One\obj\Debug\Media_Player_One.Resources.resources
+G:\drive h\user data Rohit\Documents\Visual Studio 2012\Projects\Media Player One\Media Player One\obj\Debug\Media_Player_One.playlist.resources
+G:\drive h\user data Rohit\Documents\Visual Studio 2012\Projects\Media Player One\Media Player One\obj\Debug\Media Player One.vbproj.GenerateResource.Cache
+G:\Visual Studio 2012\Projects\Media Player One\Media Player One\bin\Debug\Media Player One.exe.config
+G:\Visual Studio 2012\Projects\Media Player One\Media Player One\obj\Debug\Interop.WMPLib.dll
+G:\Visual Studio 2012\Projects\Media Player One\Media Player One\obj\Debug\AxInterop.WMPLib.dll
+G:\Visual Studio 2012\Projects\Media Player One\Media Player One\obj\Debug\Media Player One.vbproj.ResolveComReference.cache
+G:\Visual Studio 2012\Projects\Media Player One\Media Player One\obj\Debug\Media Player One.exe
+G:\Visual Studio 2012\Projects\Media Player One\Media Player One\obj\Debug\Media Player One.xml
+G:\Visual Studio 2012\Projects\Media Player One\Media Player One\obj\Debug\Media Player One.pdb
+G:\Visual Studio 2012\Projects\Media Player One\Media Player One\bin\Debug\Media Player One.exe
+G:\Visual Studio 2012\Projects\Media Player One\Media Player One\bin\Debug\Media Player One.pdb
+G:\Visual Studio 2012\Projects\Media Player One\Media Player One\bin\Debug\Media Player One.xml
+G:\Visual Studio 2012\Projects\Media Player One\Media Player One\bin\Debug\Interop.WMPLib.dll
+G:\Visual Studio 2012\Projects\Media Player One\Media Player One\bin\Debug\AxInterop.WMPLib.dll
+G:\Visual Studio 2012\Projects\Media Player One\Media Player One\obj\Debug\Media_Player_One.ABout.resources
+G:\Visual Studio 2012\Projects\Media Player One\Media Player One\obj\Debug\Media_Player_One.Form1.resources
+G:\Visual Studio 2012\Projects\Media Player One\Media Player One\obj\Debug\Media_Player_One.Resources.resources
+G:\Visual Studio 2012\Projects\Media Player One\Media Player One\obj\Debug\Media_Player_One.playlist.resources
+G:\Visual Studio 2012\Projects\Media Player One\Media Player One\obj\Debug\Media Player One.vbproj.GenerateResource.Cache
